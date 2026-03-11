@@ -1,0 +1,1 @@
+# palindromeCHECKER_APP
